@@ -90,8 +90,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu863&theme=dark" alt="siddhu863" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhu863&" alt="siddhu863" /></p>
-
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhu863&theme=dark&hide_border=false" alt="Enhanced Streak Box" />
+</p>
 ---
 
 ## ✍️ Random Dev Quote
