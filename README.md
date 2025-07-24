@@ -104,7 +104,8 @@
 
 ## 🧮 Profile Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Siddhu863&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=Siddhu863&label=Profile%20Views&color=12&icon=5" alt="Visitor Count"/>
 </p>
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
