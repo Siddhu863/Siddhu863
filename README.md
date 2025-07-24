@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhu863&theme=dark" alt="siddhu863" />
+<img src="https://visitcount.itsvg.in/api/username/Siddhu863?label=Profile%20Views&color=12&icon=5" />
 </p>
 
 <p align="center">
